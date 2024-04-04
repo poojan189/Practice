@@ -1,0 +1,27 @@
+
+.bgi1{background-repeat:no-repeat    ;background-image:url('pic/102.jpg');background-size:100% 100%;background-position:center;}
+.bgi2{background-repeat: no-repeat;background-image:url('pic/103.png');background-size:100%;background-position:center;}
+.bgi3{background-repeat: no-repeat;background-image:url('pic/110.jpg');background-size:100% 100%;background-position:center;}
+.bgi4{background-repeat: no-repeat;background-image:url('pic/116.png');background-size:100% 100%;background-position:center;}
+.bgi5{background-image:url('pic/117.png');background-size:50% 90%;background-repeat:no-repeat ;background-position:center;}
+.bgi6{background-repeat: no-repeat;background-image:url('pic/118.png');background-size:100% 100%;background-position:center;}
+.bgi7{height: 500px;background-image:url('pic/123.png');background-size:cover;background-position:top;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn{background-color:none;border-color: none;color: red;transition: 0.5s;}
+.btn:hover{background-color: none;border-color: none;color:black;transition: 0.5s;}
+
+.btn2{height: 50px;background-color:rgb(102, 175, 175);border: none;border-radius: 30px;color: white;transition: 0.5s;}
+.btn2:hover{height: 50px;background-color:white;border: none;color: black;border-radius: 30px;transition: 0.5s;}

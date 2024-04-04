@@ -1,0 +1,59 @@
+
+
+
+
+
+
+.bg1{height: 700px;width: 100%;background-image:url('pic/1.jpg');background-size:100%;background-position:center;}
+
+.bg2{height: 400px;width: 100%;background-image:url('pic/7 .jpg');background-size:cover;background-position:center;}
+
+
+.bg3{height: 400px;width: 100%;background-image:url('pic/8.jpg');background-size:cover;background-position:center;}
+
+.bg4{height: 400px;width: 100%;background-image:url('pic/9.jpg');background-size:cover;background-position:center;}
+
+.bg5{height: 400px;width: 100%;background-image:url('pic/20.jpg');background-size:100;background-position:center;}
+
+.bg6{height: 500px;width: 100%;background-image:url('about/about1.jpg');background-size:100;background-position:center;}
+
+.bg7{height: 500px;width: 100%;background-image:url('about/about9.jpg');background-size:100;background-position:center;}
+
+.bg8{height: 400px;width: 100%;background-image:url('about/1231.jpg');background-size:100;background-position:center;}
+
+
+
+
+
+
+.bgfixed{background-size:cover;background-position:center;background-attachment:fixed;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button1{height: 50px;width: 150px;border: none;background-color: white;color: black; transition: 0.5s;}
+.button1:hover{height: 50px;width: 150px;border: none;background-color:black;color: white; transition: 0.5s;}
+
+.button2{height: 50px;width: 150px;border: none;background-color: rgb(93, 181, 240);color: black; transition: 0.5s;border:2px solid white;}
+.button2:hover{height: 50px;width: 150px;border: none;background-color:white;color:black; transition: 0.5s;border:2px solid white;}
+
+.button3{background-color: white;height: 45px;width: 50px;color: black;transition: 0.5s;}
+.button3:hover{background-color: black;height: 45px;width: 50px;color: white;transition: 0.5s;}
+
+
+
+
+
+
+.th{color:black; transition: 1s;}
+.th:hover{color: rgb(29, 29, 99); transition: 1s;}

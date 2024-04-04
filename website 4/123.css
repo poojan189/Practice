@@ -1,0 +1,56 @@
+.bt{height: 40px;width: 100px;background:none;color:black;border: none;transition: 0.5s;}
+.bt:hover{height: 40px;width:100px;background:none;color: rgb(253, 8, 8);border: none;transition: 0.5s;}
+
+
+
+.bt1{height: 70px;width: 70px;background-color: white;color:rgb(24, 24, 49);border: 1px solid rgb(24, 24, 49);
+    border-radius: 20px;transition: 0.5s;}
+.bt1:hover{height: 70px;width: 70px;background-color: white;color:red;border: 1px solid red;border-radius: 20px;transition: 0.5s;}
+
+.bt2{height: 50px;background: none;color: black;font-size: 20px;border:1px solid black;border-radius: 10px;transition: 0.5s;}
+.bt2:hover{height: 50px;background: rgb(24, 24, 49);font-size: 20px;color:white;border:1px solid black;transition: 0.5s;}
+
+.bt3{height: 40px;background:rgb(40, 31, 73);color: rgb(233, 221, 221);border: none;transition: 0.5s;}
+.bt3:hover{height: 40px;background:rgb(238, 113, 113);color: rgb(8, 8, 8);border: none;transition: 0.5s;}
+
+.bt4{height: 40px;background:none;color:black;border: none;transition: 0.5s;}
+.bt4:hover{height: 40px;background:none;color: rgb(253, 8, 8);border: none;transition: 0.5s;}
+
+
+
+.bh{height: 50px;background-color: rgb(5, 1, 26);font-size: 20px;border: none;border-radius: 10px;color: white;transition: 0.5s;}
+.bh:hover{height:50px;background-color: rgb(77, 3, 3);font-size: 20px;border: none;border-radius: 10px;color: white;transition: 0.5s;}
+
+
+.bh1{height: 55px;background-color:  rgb(16, 16, 43);font-size: 20px;border:1px solid white;border-radius: 10px;color: white;transition: 0.5s;}
+.bh1:hover{height:55px;background-color: rgb(240, 57, 57);font-size: 20px;border: none;border-radius: 10px;color: white;transition: 0.5s;}
+
+
+
+.brh{border: 3px solid black;border-radius: 10px;transition: 0.5s;}
+.brh:hover{border: 3px solid black;border-radius: 10px;box-shadow: 5px 5px black;transition: 0.5s;}
+
+
+
+
+
+
+
+
+
+
+
+.mt{margin-top: -100px;}
+
+
+
+
+
+
+.bgi{width: 80%;background-image:url(pic/14.png);}
+
+
+
+
+.th{color: black;transition: 0.5s;}
+.th:hover{color:red;transition: 0.5s;}
